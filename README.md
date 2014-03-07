@@ -1,4 +1,4 @@
-e###CakePHP Paper Route Maintenance
+###CakePHP Paper Route Maintenance
 
 My attempt at duplicating the route card functionality found at [mydistrict.net](https://www.mydistrict.net/home/). It is currently hosted on 000freewebhost at [gooselive.net23.net](http://gooselive.net23.net).
 
